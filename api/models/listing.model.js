@@ -7,7 +7,7 @@ const listingSchema = new mongoose.Schema(
             type : String,
             required : true
         },
-        discription: {
+        description: {
             type: String,
             required: true
         },
@@ -28,7 +28,7 @@ const listingSchema = new mongoose.Schema(
             type: Number,
             required: true,
         },
-        bedroom: {
+        bedrooms: {
             type: Number,
             required: true
         },
