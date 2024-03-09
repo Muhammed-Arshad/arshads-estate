@@ -62,7 +62,7 @@ function Home() {
           place with ease
         </h1>
         <div className="text-grsy-400 text-xs sm:text-sm">
-          Sample estate is best place to find your next perfect place to live.
+          ArshsEstate is best place to find your next perfect place to live.
           <br />
           we have the wide range of properties for you to choose from.
         </div>
